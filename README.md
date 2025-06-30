@@ -22,7 +22,7 @@ I love building secure and user-friendly apps with **Spring Boot**, **MongoDB**,
 
 ---
 
-### 🧠 Skills
+### 🧠 Technical Skills
 
 **🖥️ Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -44,6 +44,11 @@ I love building secure and user-friendly apps with **Spring Boot**, **MongoDB**,
 **🧩 Core Concepts:**  
 `OOPs` `DSA` `REST APIs` `Unit Testing`
 
+## ☁️ Cloud & DevOps
+
+- 🌩️ AWS
+- ☁️ Azure (Basics)
+- 🐳 Docker (Containers & Deployment)
 ---
 
 ### 📌 Projects
@@ -55,6 +60,23 @@ I love building secure and user-friendly apps with **Spring Boot**, **MongoDB**,
 | 💬 Chat Messenger | P2P messaging using Java sockets | Java |
 | 🧮 Calculator | GUI Calculator mimicking mobile | Java |
 | 📚 DSA Library | Generic data structure library | C++ |
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Omkar7143&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar7143&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals for 2025
+
+- ✅ Contribute to 5+ open-source projects
+- 🎓 Master cloud architecture patterns
+- 🚀 Deploy 3 full-stack production apps
+- 🏅 Get AWS Solutions Architect certification
+- 🤝 Mentor junior developers
 
 ---
 
