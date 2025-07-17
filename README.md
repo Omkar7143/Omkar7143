@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/7634569a-2f7d-47e0-8fe1-53c3150caeb7" />
+
+
 <h1 align="center">Hi 👋, I'm Omkar Jadhav</h1>
 <h3 align="center">💻 Java Full Stack Developer | Spring Boot | MongoDB | REST APIs</h3>
 
