@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I’m a passionate 💻 Java Full Stack Developer from India 🇮🇳  
+I’m a passionate 💻  Java Backend Developer from India 🇮🇳  
 I love building secure and user-friendly apps with **Spring Boot**, **MongoDB**, and clean code principles.
 
 ---
