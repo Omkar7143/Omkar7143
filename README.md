@@ -105,6 +105,9 @@ Spring Boot | MySQL | JWT | REST APIs
 * Validation & Error Handling
 * Postman API Testing
 
+🔗 GitHub Repository:
+👉 [https://github.com/Omkar7143/product-api]
+
 ---
 
 ## 📌 Employee Management System
@@ -122,6 +125,9 @@ React.js | Spring Boot | MySQL
 * Authentication & Validation
 * Responsive UI Handling
 * Database Optimization
+
+🔗 GitHub Repository:
+👉 [https://github.com/Omkar7143/EM-Project]
 
 ---
 
